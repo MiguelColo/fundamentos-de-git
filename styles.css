@@ -1,9 +1,12 @@
 body{
     background-color:green;
-    
+
 }
 .example{
     display:flex;
     flex-direction:column;
     align-items:center;
+}
+h1{
+    color:white;
 }
